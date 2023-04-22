@@ -1,0 +1,14 @@
+{
+  "name": "credit_card-1lvl",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "Fil",
+  "dependencies": {
+    "credit-card-input-mask": "^3.0.0",
+    "redom": "^3.29.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
